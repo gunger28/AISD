@@ -1,0 +1,212 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  RGR.cpp
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(25,1): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(640): message : см. объявление "_itoa"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2683,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1815,39): warning C4101: edge: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1814,23): warning C4101: vertex: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2317,18): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2451,18): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1479,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1474): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::write_weight_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2500): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::write_weight_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2399): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1468,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1463): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::write_data_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2483): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::write_data_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1457,8): warning C4101: a: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1449): message : во время компиляции функции-члена класс шаблон "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::read_data_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2465): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::read_data_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1454,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1430,8): warning C4101: w: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1421): message : во время компиляции функции-члена класс шаблон "std::string Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::read_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2449): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::read_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1426,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1355,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1350): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::write_weight_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2366): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::write_weight_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2265): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1344,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1339): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::write_data_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2349): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::write_data_edge(int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1333,8): warning C4101: a: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1325): message : во время компиляции функции-члена класс шаблон "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::read_data_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2331): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::read_data_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1330,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1306,8): warning C4101: w: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1297): message : во время компиляции функции-члена класс шаблон "std::string Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::read_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2315): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::read_edge(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1302,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(886,16): warning C4101: Error: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(868): message : во время компиляции функции-члена класс шаблон "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::insertEdge(std::string,std::string)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2022): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::insertEdge(std::string,std::string)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1817): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(844,31): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(843): message : во время компиляции функции-члена класс шаблон "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::getVertex(int)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2399): message : выполняется компиляция ссылки на экземпляр шаблон функции "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::getVertex(int)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(782,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(777): message : во время компиляции функции-члена класс шаблон "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::toSparseGraph(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1978): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::toSparseGraph(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(786,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(787,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(765,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(760): message : во время компиляции функции-члена класс шаблон "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::toDenseGraph(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1985): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::toDenseGraph(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(769,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(770,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(700,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(675): message : во время компиляции функции-члена класс шаблон "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Graph(int,int,bool,bool)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1885): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Graph(int,int,bool,bool)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(538,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(534): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::EdgeIterator::next(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1272): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphListForm<EdgeT>::EdgeIterator::next(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1286): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphListForm<EdgeT>::EdgeIterator"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1282): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::toend(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2292): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::toend(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(545,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(520,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(518): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::EdgeIterator::toend(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1286): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphListForm<EdgeT>::EdgeIterator::toend(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(506,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(505): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1265): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphListForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(276,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(272): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::EdgeIterator::next(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1270): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::EdgeIterator::next(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1284): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<EdgeT>::EdgeIterator"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(277,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(246,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(245): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1262): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(247,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(334,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(330): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::next(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1395): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::next(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1401): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<EdgeT>::OutputEdgeIterator"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1399): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::toend(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2426): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::toend(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(310,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(309): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1388): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=Edge<Vertex<std::string,int>,int,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1552,13): warning C4101: vv2: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1551): message : во время компиляции функции-члена класс шаблон "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Task1::search(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1525): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Task1::search(void)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2642): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Task1"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1552,8): warning C4101: vv1: неиспользованная локальная переменная
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1176,24): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1175): message : во время компиляции функции-члена класс шаблон "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::VertexIterator::operator *(void)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1228): message : выполняется компиляция ссылки на экземпляр шаблон функции "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::VertexIterator::operator *(void)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(2144): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(947,25): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(946): message : во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::hasEdge(int,int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1062): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::hasEdge(int,int)"
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(949,25): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(858,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(856): message : во время компиляции функции-члена класс шаблон "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::getIndex(VertexT *)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1375): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::getIndex(VertexT *)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(850,1): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(848): message : во время компиляции функции-члена класс шаблон "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::getVertexFromName(std::string)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(1121): message : выполняется компиляция ссылки на экземпляр шаблон функции "VertexT *Graph<VertexT,Edge<VertexT,int,int>>::getVertexFromName(std::string)"
+          with
+          [
+              VertexT=Vertex<std::string,int>
+          ]
+C:\Users\belou\Desktop\RGR\RGR\RGR.cpp(855): warning C4715: Graph<Vertex<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>,Edge<Vertex<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>,int,int> >::getVertexFromName: значение возвращается не при всех путях выполнения
+  RGR.vcxproj -> C:\Users\belou\Desktop\RGR\Debug\RGR.exe
